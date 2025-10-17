@@ -1,0 +1,13 @@
+/* estilos.css */
+h1 {
+  color: yellow;
+  font-family: Times, Arial, serif;
+  font-style: italic;
+  font-weight: bold;
+}
+h3 {
+  color: cyan;
+  font-family: Courier, monospace;
+  font-weight: bolder;
+  text-align: right;
+}
